@@ -1,0 +1,254 @@
+.charonDigitalHeaderPart{
+    width: 100%;
+}
+.charonDigitalHeaderTop{
+    width: 100%;
+    height: 30px;
+    background: #F2F2F2;
+}
+.charonDigitalHeaderTopCon{
+    width: 1200px;
+    height: 30px;
+    margin: 0 auto;
+}
+.charonDigitalHeaderTopCon>ul{
+    height: 30px;
+    float: right;
+}
+.charonDigitalHeaderTopCon>ul>li{
+    float: left;
+    padding: 0 10px;
+    line-height: 30px;
+}
+.charonDigitalUsername>a{
+    color: #DA2F2F;
+}
+.charonDigitalHeaderNav{
+    width: 1200px;
+    height: 80px;
+    margin: 0 auto;
+}
+.charonDigitalLogo{
+    width: 200px;
+    height: 80px;
+    float: left;
+}
+.charonDigitalLogo>a{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.charonDigitalLogo>a>img{
+    margin-top: 7px;
+    width: 100%;
+}
+.charonDigitalMenu{
+    width: 600px;
+    height: 30px;
+    margin-top: 50px;
+    float: left;
+}
+.charonDigitalMenu>ul>li{
+    width: 114px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    float: left;
+}
+.charonDigitalMenu>ul>li>a{
+    font-size: 16px;
+    font-weight: bold;
+}
+.charonDigitalMenu>ul>li>a:hover{
+    color:#DA2F2F;
+}
+.charonDigitalSearch{
+    width: 310px;
+    height: 37px;
+    margin-top: 43px;
+    float: left;
+}
+.charonDigitalSearch>input{
+    width: 256px;
+    height: 35px;
+    border: 1px solid #DA2F2F;
+    float: left;
+    padding-left: 5px;
+    line-height: 35px;
+}
+.charonDigitalSearch>a{
+    width: 41px;
+    height: 37px;
+    display: block;
+    background: url(../images/index_search.png) top center no-repeat;
+    float: left;
+}
+/*数字期刊头部的公共部分结束*/
+/*数字期刊内容部分开始*/
+.charonDigitalContainer{
+    width: 1200px;
+    margin: 0 auto;
+}
+.charonDigitalBanner{
+    width: 1200px;
+    height: 454px;
+    position: relative;
+}
+.charonDigitalBannerCon{
+    width: 580px;
+    height: 330px;
+    position: absolute;
+    left: 0;
+    top:0;
+}
+.charonDigitalBannerTitle>li{
+    width: 560px;
+    height: 55px;
+    line-height: 55px;
+    margin-top: 69px;
+    margin-left: 20px;
+}
+.charonDigitalBannerTitle>li>span{
+    font-size: 28px;
+    color:#A4A4A4;
+    float: left;
+}
+.charonDigitalBannerTitle>li>i{
+    width: 240px;
+    height: 55px;
+    float: left;
+    display: block;
+    margin-left: 10px;
+}
+.charonDigitalBannerList{
+    width: 560px;
+    height: 240px;
+}
+.charonDigitalBannerList>li{
+    width: 400px;
+    height: 70px;
+    line-height: 70px;
+    margin-left: 50px;
+}
+.charonDigitalBannerList>li>i{
+    width: 14px;
+    height: 70px;
+    display: block;
+    float: left;
+    background: url(../images/dot.png) -13px 30px no-repeat;
+}
+.charonDigitalBannerList>li>span{
+    font-size: 18px;
+    color:#a3a3a3;
+    padding-left: 20px;
+    float: left;
+}
+.charonDigitalBannerHave{
+    width: 104px;
+    height: 34px;
+}
+.charonDigitalBannerHave>a{
+    width: 100px;
+    height: 30px;
+    display: block;
+    font-weight: bold;
+    border: 2px solid #F3A9A9;
+    line-height: 30px;
+    text-align: center;
+    margin-left: 450px;
+}
+.charonDigitalBannerHave>a:hover{
+    color:#F3A9A9;
+}
+/*热门资源推荐*/
+.charonDigitalHotGet{
+    width: 1200px;
+}
+.charonDigitalHotGetTitle{
+    width: 100%;
+    height: 50px;
+}
+.charonDigitalHotGetTitle>i{
+    width: 33px;
+    height: 38px;
+    display: block;
+    background: url(../images/charonDigitalIcon.png) 0px 0px no-repeat;
+    float: left;
+}
+.charonDigitalHotGetTitle>span{
+    float: left;
+    margin-left: 17px;
+    font-size: 19px;
+    color:#777676;
+    margin-top: 3px;
+}
+.charonDigitalHotCon{
+    width: 1200px;
+}
+.charonDigitalHotCon>ul>li{
+    width: 292px;
+    height: 462px;
+    margin:20px 4px;
+    float: left;
+}
+.charonDigitalHots{
+    width: 288px;
+    height: 411px;
+    display: block;
+    border: 1px solid #EFEFEE;
+}
+.charonDigitalHotPic{
+    width: 263px;
+    height: 340px;
+    display: block;
+    margin: 16px auto 0;
+}
+.charonDigitalHotPic img{
+    width: 100%;
+}
+.charonDigitalHotOnline{
+    width: 82px;
+    height: 19px;
+    display: block;
+    line-height: 19px;
+    border: 1px solid #EFEFEE;
+    text-align: center;
+    float: left;
+    margin-left: 12px;
+    margin-top: 20px;
+    color:#b2b1b1;
+}
+.charonDigitalHotDownload{
+    width: 82px;
+    height: 19px;
+    display: block;
+    line-height: 19px;
+    border: 1px solid #EFEFEE;
+    float: left;
+    margin-left: 95px;
+    margin-top: 20px;
+    color: #b2b1b1;
+}
+.charonDigitalHotDownload i{
+    width: 17px;
+    height: 17px;
+    display: block;
+    background: url(../images/charonDigitalIcon.png) 0px -42px no-repeat;
+    float: left;
+    margin: 0 6px;
+}
+.charonDigitalHotDownload span{
+    float: left;
+}
+.charonDigitalHotDate{
+    width: 100%;
+    height: 20px;
+    display: block;
+    font-size: 14px;
+    font-style: normal;
+    text-align: center;
+    line-height: 20px;
+    color:#b2b1b1;
+    margin-top: 10px;
+}
+/*数字期刊内容部分结束*/
